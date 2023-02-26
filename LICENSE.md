@@ -1,0 +1,3 @@
+- Anyone can install this program on any device they want to (FOSS). 
+- Permission is given to provide this code to someone else in addition to editing the code sharing it with others.
+- Permission is not given when it comes to selling the program. Legal action will be taken if this is done. 
